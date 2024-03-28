@@ -18,3 +18,7 @@ resource "azurerm_resource_group" "rgblock" {
   location = "West Europe"
 }
 
+resource "azurerm_resource_group" "rgblock" {
+  name     = "rhjdgc"
+  location = "West Europe"
+}
